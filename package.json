@@ -1,0 +1,11 @@
+{
+  "name": "hpd-scraper",
+  "version": "0.0.0",
+  "description": "Something for scraping the HPD website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mark Castillo",
+  "license": "MIT"
+}
